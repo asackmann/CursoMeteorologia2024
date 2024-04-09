@@ -3,7 +3,6 @@
 - [Terminos](#terminos)
 - [Situaciones de riesgo Rio de la plata](#situaciones-de-riesgo-rio-de-la-plata)
 - [Pilot Chart](#pilot-chart)
-- [Clases](#clases)
 
 
 -----------------
@@ -129,18 +128,3 @@ Ushuahia, llueve, para llueve para.
 
 Pedirla!!
 
-
-# Clases
-1. 09/04
-2. 16/04
-3. 23/04
-4. 30/04
-5. 07/05
-6. 14/05
-7. 21/05
-8. 28/05
-9. 04/06
-10. 11/06
-11. 18/06
-12. 25/06
-13. 02/07
