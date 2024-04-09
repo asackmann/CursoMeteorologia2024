@@ -2,6 +2,9 @@
   - [Tiempo y Clima](#tiempo-y-clima)
 - [Terminos](#terminos)
 - [Situaciones de riesgo Rio de la plata](#situaciones-de-riesgo-rio-de-la-plata)
+- [Movimiento vertical del aire](#movimiento-vertical-del-aire)
+  - [Cuando el aire asciende](#cuando-el-aire-asciende)
+  - [Cuando el aire desciende](#cuando-el-aire-desciende)
 - [Pilot Chart](#pilot-chart)
 
 
@@ -88,6 +91,7 @@ En Argentina estamos en la circulacion del OESTE, hacia el ESTE.
    - Lobo con piel de cordero, 35kn de viento tenes que prepararte para esto.
    - EL modelo muestra 15kn, pero en realidad tenes 35kn. rafagas 42kn
    - Viento super geostrofico dos a tres escalas beafort sobre lo pronosticado en modelos.
+   - Tenes un anticiclon en chile, unas hs dsp se va acercando, es el que llega el sabado domingo.
 
 ... todas vinculadas a vientos fuertes.
 
@@ -104,6 +108,33 @@ Sur de comodoro rivadavia, 30kn min.
 Cumulus y cumulus nimbus.
 Ushuahia, llueve, para llueve para.
 
+
+# Movimiento vertical del aire
+
+## Cuando el aire asciende
+
+1. Se descomprime.
+2. Consecuencia, se enfria.
+3. Consecuencia, Se satura.
+4. Exceso de humedad, sale fuera de la muestra, presipita, llueve.
+
+> Si esta lloviendo, predomina el movimiento ascendente del aire.
+
+## Cuando el aire desciende
+
+1. Se comprime.
+2. Consecuencia, se calienta.
+3. Consecuencia, disipa las nubes.
+4. No llueve.
+
+> Si esta lindo el dia, predominta descendiente el movimiento del aire.
+> El aire cuando viene del estrecho de magallanes se calienta.
+
+
+
+Que pasa cuando el aire sube, la presion disminuye.
+  de 1000 a 700 hp, se enfria el aire. cuando se enfria finalmente se satura, forma nube, exceso de humedad, presipita y llueve.
+Que pasa cuando el aire baja, la presion aumenta.
 
 # Pilot Chart
 
