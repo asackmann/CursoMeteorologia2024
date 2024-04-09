@@ -10,28 +10,6 @@
 > - 
 --------------------
 
-Prof Norberto Cattaneo
-Curso de Meteorología!
-Para navegantes y público en general
-Inicio: 9 de abril de 2024
-Duración 13 Clases - Todos los martes de 19 a 21 h
-Costo del curso $82.000 en 3 cuotas, junto con la cuota social
-Totalmente presencial, Salón POLLITZER, Edificio Principal, Prof Norberto Cattaneo
-
-El Programa del Curso Nivel 1 tiene como objetivo impartir los conceptos básicos de Meteorología que permita analizar la información disponible de distintas fuentes para hacer pronósticos meteorológicos (nivel no profesional) que ayuden a la navegación y a la seguridad a bordo
-
-Durante el curso se verán los siguientes temas:
--          Climatología Regional
--          Conceptos sobre el Viento Geostrófico, Real y De Gradiente
--          Ciclones y Frentes y Anticiclones Migratorios
--          Tormentas
--          Nieblas
--          Situaciones Típicas, Pampero, Sudestada.
--          Brisas
--              Descripción y utilización de herramientas digitales recomendadas ( Ogimet, Windy, NOAA, GOES, Norden, Radares etc)
-
-Se realiza práctica intensiva en casa clase sobre pronóstico e interpretación de imágenes de satélite y radar meteorológico.
-
 # 20240409 / Primer clase
 
 - 19hs a 21hs / 
@@ -105,8 +83,11 @@ En Argentina estamos en la circulacion del OESTE, hacia el ESTE.
      - Esto se ve en una foto satelital, una bien en el medio, otra que la cubre por fuera y una tercera afuera adicional.
      - earthdata.nasa.gov
 2. Tormentas, frontales o no frontales, Carpe diem, 
+   
 3. Ingreso de Anticiclon migratorio, Torio
    - Lobo con piel de cordero, 35kn de viento tenes que prepararte para esto.
+   - EL modelo muestra 15kn, pero en realidad tenes 35kn. rafagas 42kn
+   - Viento super geostrofico dos a tres escalas beafort sobre lo pronosticado en modelos.
 
 ... todas vinculadas a vientos fuertes.
 
