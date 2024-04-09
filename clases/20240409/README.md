@@ -2,6 +2,7 @@
   - [Tiempo y Clima](#tiempo-y-clima)
 - [Terminos](#terminos)
 - [Situaciones de riesgo Rio de la plata](#situaciones-de-riesgo-rio-de-la-plata)
+- [Pilot Chart](#pilot-chart)
 - [Clases](#clases)
 
 
@@ -122,6 +123,11 @@ Open cells, celulas abiertas.
 Sur de comodoro rivadavia, 30kn min.
 Cumulus y cumulus nimbus.
 Ushuahia, llueve, para llueve para.
+
+
+# Pilot Chart
+
+Pedirla!!
 
 
 # Clases
