@@ -32,3 +32,5 @@ https://www.cnsi.org.ar/yachting/meteorologia/
   - ![alt text](<Screenshot by Dropbox Capture-1.png>)
   - Sabado sopla del este a las 9 am, 20kn, llueve?
   - https://www.windy.com/?-34.470,-58.490,12,i:pressure
+- Windy, modelo cuantitativo
+  - 300hp . 9.000 m , viento del noroeste mal tiempo, viento del sudoeste buen tiempo.
