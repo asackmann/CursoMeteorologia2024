@@ -35,7 +35,7 @@ https://www.cnsi.org.ar/yachting/meteorologia/
   - ![alt text](./images/Screenshot%20by%20Dropbox%20Capture-1.png)
 - [Windy.com](https://windy.com)
   - Modelo cuantitativo
-  - 300hp . 9.000 m , viento del noroeste mal tiempo, viento del sudoeste buen tiempo.
+  - 300hPa . 9.000 m , viento del noroeste mal tiempo, viento del sudoeste buen tiempo.
   - ![alt text](./images/Screenshot%20by%20Dropbox%20Capture-2.png)
 - https://www.comisionriodelaplata.org/vientosymareas.php
 - Zoom Earth https://zoom.earth/
