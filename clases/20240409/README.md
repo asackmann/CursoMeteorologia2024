@@ -6,6 +6,7 @@
   - [Cuando el aire asciende](#cuando-el-aire-asciende)
   - [Cuando el aire desciende](#cuando-el-aire-desciende)
 - [Pilot Chart](#pilot-chart)
+- [Pronostico](#pronostico)
 
 
 -----------------
@@ -140,3 +141,14 @@ Que pasa cuando el aire baja, la presion aumenta.
 
 Pedirla!!
 
+
+
+# Pronostico
+
+- Se observan vientos en altura, 
+- 300hp . 9.000 m , viento del noroeste mal tiempo, viento del sudoeste buen tiempo.
+- Sabado sopla del este a las 9 am, 20kn, llueve?
+- https://www.windy.com/?-34.470,-58.490,12,i:pressure
+  
+![alt text](<Screenshot by Dropbox Capture.png>)
+![alt text](<Screenshot by Dropbox Capture-1.png>)
