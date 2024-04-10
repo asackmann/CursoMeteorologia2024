@@ -1,10 +1,10 @@
 ![logo](images/CNSI.png)
 
-# Curso de Timonel
+# Curso de Meteorologia 2024
 
-<small>2do Semestre 2023</small>
+<small>1er Semestre 2024</small>
  
-> Notas de clase curso Timonel de yate a vela y motor para manejar embarcaciones deportivas de hasta 12 metros de eslora.
+> Notas de clase curso de meteorologia 2024
 
 
 
