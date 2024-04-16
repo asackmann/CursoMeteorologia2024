@@ -29,6 +29,11 @@ Curso de Meteorología! 2024
 - Totalmente presencial, Salón POLLITZER, Edificio Principal, Prof Norberto Cattaneo
 
 
+Grupo de WhatsApp
+  https://chat.whatsapp.com/BStUtjEXWTBA405NdOe9iO
+  
+
+
 ## Programa del curso
 
 El Programa del Curso Nivel 1 tiene como objetivo impartir los conceptos básicos de Meteorología que permita analizar la información disponible de distintas fuentes para hacer pronósticos meteorológicos (nivel no profesional) que ayuden a la navegación y a la seguridad a bordo
