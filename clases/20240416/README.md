@@ -5,6 +5,7 @@
     - [SMN](#smn)
     - [Windy](#windy)
     - [Pilote norden](#pilote-norden)
+- [Slides](#slides)
 
 
 -----------------
@@ -73,4 +74,42 @@
 - https://www.comisionriodelaplata.org/vientosymareas.php
   - ![alt text](<Screenshot by Dropbox Capture-11.png>)
   - ![alt text](<Screenshot by Dropbox Capture-12.png>)
-  - 
+
+
+
+# Slides
+
+- Boyas que alimentan los modelos de OGIMET
+
+- Hay 4 maneras de ver la atmosfora
+  - 1. Desde arriba, lo ve el satelite.
+  - 2. Desde abajo, miramos para arriba, nosotros.
+  - 3. El radar, corta a las nubes en determinado angulo. en funcion de la intensidad que emite.
+  - 4. Detector de rayos de GOE16.
+
+- Arcus, el cigarro del pampero. 
+- Cuando el aire asciende, 
+  - Estmos en 1000 hpa, si me voy a 500 se descomprime, se enfria, se satura, exceso de humedad precipita. 
+- Cuando el aire desciende, 
+  - Se calienta, 
+
+- Vaguada, movimiento vertical ascendente
+- Cuña, movimiento vertical descendente.
+- Linea de inestabilidad, bien marcada.
+- Se puede ver fitoplancton, florecen las algas y las corrientes marinas se la llevan. Lugar de pesca.
+- Ondas de montaña, 
+- NOAA-17
+  - Transmite banda visible (VIS) 
+    - 0.4 micrones Y 0.8 micrones.
+    - las nubes en el visible son blancas.
+  - Banda infraroja (IRVIS)
+    - Por arriba de 0.6 a 1.2 micrones. IR. No lo vemos.
+    - Al satelite se pone un sensor de medicion de radiacion.
+    - En IR lo calido es negro, lo frio es blanco.
+    - Lo blanco es lo frio lo que esta mas arriba.
+- RADAR EZEIZA
+  - PRIMER TERCIO, NUBES.
+  - SEGUNDO TERCIO, LLUVIAS
+  - TERCER TERCIO, TORMENTA, SOPLA Y LA RAFAGA SE PROPAGA.
+  - CORTE HORIZONTAL, te dice que tipo de nubes hay, cirrus por ej.
+  - LO VERDE, ES UN FRENTE DE RAFAGAS.

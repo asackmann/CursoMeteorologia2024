@@ -2,8 +2,8 @@
 
 Apuntes de clases del curso de meteorologia 2024
  
-1. [2024/04/09 - TEORÍA - Primer clase](./clases/20240409/README.md)
-2. 16/04
+1. [2024/04/09 - TEORÍA - 1era clase](./clases/20240409/README.md)
+2. [2024/04/16 - TEORÍA - 2da clase](./clases/20240416/README.md)
 3. 23/04
 4. 30/04
 5. 07/05
