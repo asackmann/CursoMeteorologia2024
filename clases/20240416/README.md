@@ -6,6 +6,7 @@
     - [Windy](#windy)
     - [Pilote norden](#pilote-norden)
 - [Slides](#slides)
+- [Nubes](#nubes)
 
 
 -----------------
@@ -113,3 +114,29 @@
   - TERCER TERCIO, TORMENTA, SOPLA Y LA RAFAGA SE PROPAGA.
   - CORTE HORIZONTAL, te dice que tipo de nubes hay, cirrus por ej.
   - LO VERDE, ES UN FRENTE DE RAFAGAS.
+  - Las rafagas trabajan con velocidades de propagacion, medios mas densos mas lento, medios menos lentos, mas rapido, envia como un eco.
+  - Los radares tienen un rango de 500km.
+  - Energia y escucha. constantemente.
+
+
+# Nubes
+
+- Hay 3 importantes
+  - Para observar nubes necesitas 400 hs de obs.
+  - "corderitos en el cielo agua en el cielo", "cielo empedrado.."
+  - Las 3 son
+    - Cirrucumulus, anuncian el desmejoramiento del tiempo, viento del NW en altura.
+    - Altuscumulus, 
+    - Cumulunimbus.
+  - Nunca decir va a llover!! Mirar satelites, porahi la tormenta pasa por la plata, o lejos.
+  - Desmejorar, desde el aumento de nubosidad a que se inunde BsAs.
+  - Ch, Nubes altas
+  - Cm, nubes medias
+  - CI, nubes bajas
+    - Sierra tango. sirrus..
+    - Charly bravo. cumulus nimbus.
+  - Cumulus del buen tiempo.
+  - Pinceladas, cielos que presagian desmejoramiento del tiempo. Es precipitacion que no llega al piso.
+    - Se llaman vilgas. 
+    - cristales de hielo 7mil metros. presipitan y caen, de estado solido a gas, subliman.
+  - 
