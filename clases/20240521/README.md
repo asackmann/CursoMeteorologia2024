@@ -147,3 +147,45 @@ Formas de cambiar la velocidad del viento.
 Aumentando o disminuyendo la temperatura puedo variar la velocidad del viento.
 Junto o separo las isobaras.
 Cambiando de curvatura las isobaras.
+
+
+
+Ejercicio
+
+Anticiclon permanente en la costa de brasil!!
+
+Cuña 
+- Anticiclon, aumenta viento
+- 30 knt
+
+Vaguada
+- Ciclon, disminuye viento
+- 10 knt
+
+Cuña
+- Anticiclon, aumenta viento
+- 30 knt
+
+
+Cuando tenes viento en contra vas a tratar de tener el menor viento en contra.
+Cuando llegas a tal posicion tengas viento de popa.
+
+
+Entra un Anticiclon permanente, con super geostrofico
+- O ya estas en el destino, o te quedas 6 a 8 horas maximo, despues pasa y entra el anticiclon y volves tranquilo.
+- Zarpar cuando el viento te de para tu barco si es el adecuado.
+- Despues entra el anticiclon, mas viento no vas a tener.
+- En el centro del anticiclon no hay viento.
+
+
+El de los 30 que esta en africa y brasil, es un anticiclon permanente.
+El otro esta en chile y se va a nueva zelanda, es un ciclon permanente.
+El resto son migratorias.
+
+
+> ![alt text](<Screenshot by Dropbox Capture-9.png>)
+> Siempre que tenga viento sur voy a tener cumulus, por que se va calentando el aire.
+
+
+![alt text](<Screenshot by Dropbox Capture-10.png>)
+> Anticiclon migratorio en NORDEN.
