@@ -15,7 +15,7 @@ https://www.cnsi.org.ar/yachting/meteorologia/
 
 # Links
 
-
+- Notas Cattaneo https://mastersailor.com.ar/author/norberto-o-cattaneo/
 - Fotos satelites
   - https //www.colostate.edu/ goe16 // Imagen satelital
   - [GOE16](http://rammb-slider.cira.colostate.edu/?sat=goes-16&sec=full_disk&x=14648&y=17488&z=4&im=18&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=1&p%5B0%5D=16&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=20170628120038&slider=-1&hide_controls=0&mouse_draw=0&s=rammb-slider) 
