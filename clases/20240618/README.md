@@ -25,3 +25,8 @@
 
 Ciclo de vida de un Frente
 ![alt text](<Screenshot by Dropbox Capture.png>)
+
+
+Una ciclogenesis la tenes que evitar completa. 
+Ciclogénesis
+La ciclogénesis es el desarrollo o intensificación de una circulación ciclónica en los niveles bajos de la atmósfera. Dicho proceso va habitualmente asociado a una caída más o menos rápida de la presión atmosférica en dichos niveles, es decir a la génesis o intensificación de un sistema de bajas presiones.​ Wikipedia https://es.wikipedia.org/wiki/Ciclog%C3%A9nesis
