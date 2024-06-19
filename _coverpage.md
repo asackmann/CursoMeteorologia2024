@@ -9,8 +9,7 @@
 
 
 [Comenzar](#inicio)
-[Clases](clases/README.md)
-[Barcos](#barcos)
+[Clases](clases/README.md) 
 
 <!-- background image ![](_media/bg.jpeg) -->
 

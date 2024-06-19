@@ -1,9 +1,6 @@
-![](./images/pabellon.argentina.jpeg)
-
-
 
 # Inicio 
-![](_media/bg.jpeg) 
+
 
 https://asackmann.github.io/CursoMeteorologia2024/
 
